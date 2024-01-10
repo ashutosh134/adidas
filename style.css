@@ -883,6 +883,9 @@ flex-wrap: wrap;
    .first-image{
       width:100%;
       height:130vh;
+      background-image:url(./image/adidas\ logo\ image-1.jpg);
+      background-size: cover;
+      background-position:center;
       padding-inline:10px;
    }
 
@@ -909,6 +912,9 @@ flex-wrap: wrap;
    width:100%;
    height:100vh;
    padding-inline:20px;
+   background-image: url(./image/adidas\ logo\ image-2.jpg);
+    background-position:center;
+    background-size:cover;
 }
 
 .second-image h3{
@@ -949,7 +955,7 @@ flex-wrap: wrap;
 .box{
    width:100%;
    height:auto;
-   padding-inline:3%; 
+   padding-inline:10%; 
    flex-wrap: wrap;
 }
 
@@ -978,7 +984,7 @@ flex-wrap: wrap;
    display: flex;
    align-items: center;
    justify-content: space-between;
-   padding-inline:10px;
+   padding-inline:5%;
    padding-top:20px;
    padding-bottom:20px;
 
@@ -994,7 +1000,7 @@ flex-wrap: wrap;
    width:100%;
    height:auto;
    flex-wrap:wrap;
-   padding-inline:10px;
+   padding-inline:5%;
    padding-block:30px;
   
  
@@ -1024,7 +1030,7 @@ flex-wrap: wrap;
 }
 
 .border{
-   padding-inline:10px;
+   padding-inline:20px;
 }
 
 .what{
@@ -1034,7 +1040,7 @@ flex-wrap: wrap;
 }
 
 .box-2{
-padding-inline:10px;
+padding-inline:5%;
 flex-wrap: wrap;
 }
 
@@ -1069,7 +1075,7 @@ flex-wrap: wrap;
 
 .story-left{
    width:100%;
-   padding:2%;
+   padding:3%;
    
 }
 
@@ -1096,11 +1102,11 @@ flex-wrap: wrap;
 
 .story-right{
    width:100%;
-   padding:2%;  
+   padding:3%;  
 }
 
 .yellow{
-   padding-inline:5px;
+   padding-inline:5%;
 
 }
 
